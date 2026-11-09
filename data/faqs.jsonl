@@ -1,0 +1,6 @@
+{"id":"card-block","product":"cards","language":"en","text":"To block a debit card, confirm the last four digits. The block is immediate. A temporary block can be removed in the app."}
+{"id":"card-code","product":"cards","language":"en","text":"If a card block fails, quote confirmation code CB-4421 to the support person."}
+{"id":"savings-min","product":"savings","language":"en","text":"The minimum balance for a savings account is 1000 rupees. Below that, a monthly fee of 50 rupees applies."}
+{"id":"loan-emi","product":"loans","language":"en","text":"Home loan EMI is debited on the 5th of each month. A missed EMI is reported after 3 days."}
+{"id":"complaint-how","product":"complaints","language":"en","text":"A complaint needs a product and a one-line reason. A person approves the ticket before it is filed."}
+{"id":"card-block-hi","product":"cards","language":"hi","text":"डेबिट कार्ड ब्लॉक करने के लिए कार्ड के आखिरी चार अंक बताएं. ब्लॉक तुरंत लग जाता है."}

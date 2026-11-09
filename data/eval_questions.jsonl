@@ -1,0 +1,5 @@
+{"id":"code-lookup","question":"quote confirmation code CB-4421","expected_ids":["card-code"],"expect_fallback":false}
+{"id":"paraphrase-block","question":"I lost my plastic and want it stopped","expected_ids":["card-block","card-block-hi"],"expect_fallback":false}
+{"id":"min-balance","question":"why is there a minimum balance fee","expected_ids":["savings-min"],"expect_fallback":false}
+{"id":"emi-date","question":"when is home loan EMI debited","expected_ids":["loan-emi"],"expect_fallback":false}
+{"id":"unknown","question":"what is the weather in hassan today","expected_ids":[],"expect_fallback":true}
